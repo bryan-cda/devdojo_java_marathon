@@ -5,7 +5,7 @@
   </head>
   <body>
   <!-- Instance of Credentials Bean -->
-  <jsp:useBean id="Credentials" class="beans.Credentials" type="beans.Credentials" scope="page"></jsp:useBean>
+  <jsp:useBean id="Credentials" class="beans.Authentication" type="beans.Authentication" scope="page"></jsp:useBean>
   <!--Set the value of class in HTTP post method -->
   <jsp:setProperty name="Credentials" property="*"></jsp:setProperty>
   <jsp:getProperty name="Credentials" property="user"/>
@@ -18,7 +18,7 @@
     <!--Get user and password to validate access -->
     <% String password = request.getParameter("password"); %>
     
-    <% if(param.user.equalsIgnoreCase('bryan.duarte') && 
+    <% if(param.user.equalsIgnoreCase("bryan.duarte") &&
     Credentials.getPassword().equalsIgnoreCase("123"))
     {
       response.sendRedirect("Votation.jsp");

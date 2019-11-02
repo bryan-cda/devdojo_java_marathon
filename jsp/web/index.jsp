@@ -1,5 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<jsp:useBean id="Credentials" class="beans.Credentials" type="beans.Credentials" scope="page"></jsp:useBean>
+<jsp:useBean id="Credentials" class="beans.Authentication" type="beans.Authentication" scope="page"></jsp:useBean>
 <jsp:useBean id="ShowRandomNumber" class="beans.ShowRandomNumber" type="beans.ShowRandomNumber" scope="page"></jsp:useBean>
 <html>
   <body>
@@ -9,7 +9,7 @@
   </div>
   <hr>
 
-  <form action="Votation.jsp" method="post">
+  <form action="Controller" method="post">
     <div id="user">
       <label>
         <b>Digite seu usuário: </b>

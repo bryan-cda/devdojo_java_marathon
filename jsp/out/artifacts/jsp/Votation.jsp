@@ -4,7 +4,7 @@
     <title>Cadidates</title>
 </head>
 <body>
-<jsp:useBean id="Credentials" class="beans.Credentials" type="beans.Credentials" scope="page"></jsp:useBean>
+<jsp:useBean id="Credentials" class="beans.Authentication" type="beans.Authentication" scope="page"></jsp:useBean>
 <jsp:setProperty name="Credentials" property="user"/>
 <jsp:include page="Header.jsp"/>
 <br>

@@ -1,6 +1,8 @@
 package beans;
 
-public class Credentials {
+import com.sun.org.apache.xpath.internal.operations.Bool;
+
+public class Authentication {
     private String user;
     private String password;
 
@@ -18,5 +20,13 @@ public class Credentials {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public Boolean apiAccess(String user, String password){
+        if(user.equalsIgnoreCase("admin") && password.equalsIgnoreCase("admin")){
+            return true;
+        } else{
+            return false;
+        }
     }
 }
