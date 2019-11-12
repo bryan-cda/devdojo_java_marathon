@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class SimpleConnection {
-    public static String url = "jdbc:postgresql://172.17.0.4:5432/jsp";
+    public static String url = "jdbc:postgresql://172.17.0.2:5432/jsp";
     public static String user = "postgres";
     public static String password = "root";
     public static Connection connection = null;

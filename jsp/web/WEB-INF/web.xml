@@ -5,7 +5,7 @@
          version="4.0">
     <display-name>App JSP</display-name>
     <welcome-file-list>
-        <welcome-file>ResultVotation.jsp</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
     <context-param>
         <param-name>State</param-name>

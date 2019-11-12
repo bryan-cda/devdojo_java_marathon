@@ -4,5 +4,6 @@
             <label id="actualDate"> 
                 <%@ page import="java.util.Date"%>
                 <%= new Date()%>
+                <input type="text" id="clock"/>
             </label>
         </div>
