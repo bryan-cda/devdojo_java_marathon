@@ -8,27 +8,31 @@
 <jsp:setProperty name="Credentials" property="user"/>
 <jsp:include page="Header.jsp"/>
 <br>
-<form action="#" method="post">
+<form action="VotationServlets" method="post">
         <div>
             <label>Candidato 1:</label>
-            <input type="text" value="${param.user}">
+            <input type="text" name="candidate1">
         </div>
         <div>
             <label>Candidato 2:</label>
-            <input type="text" value="${param.password}">
+            <input type="text" name="candidate2">
         </div>
         <div>
             <label>Candidato 3:</label>
-            <input type="text">
+            <input type="text" name="candidate3">
         </div>
         <div>
             <label>Candidato 4:</label>
-            <input type="text">
+            <input type="text" name="candidate4">
         </div>
         <div>
             <label>Candidato 5:</label>
-            <input type="text">
+            <input type="text" name="candidate5">
         </div>
+    <div>
+        <label>Número de votos</label>
+        <input type="number" name="votes">
+    </div>
         <div>
             <input type="submit" value="Votar"/>
         </div>
