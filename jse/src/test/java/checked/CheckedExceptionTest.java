@@ -14,7 +14,5 @@ public class CheckedExceptionTest {
         CloneNotSupportedException e = assertThrows(CloneNotSupportedException.class,
                 ()->  c.clone());
 
-
-
     }
 }
