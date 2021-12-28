@@ -11,6 +11,4 @@ public class UnaryOperatorUse {
     public static Integer multiply(Integer number, Integer multiplyFor){
         return number * multiplyFor;
     }
-
-
 }
