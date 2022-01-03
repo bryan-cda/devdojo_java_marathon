@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="430e45b6-a0d5-4a0a-80e6-41b64c48bbb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/MemorizationUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/MemoizationUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/functional/programming/MemorizationUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/functional/programming/MemorizationUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/functional/programming/MemorizationUse.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +48,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MemorizationUse">
+  <component name="RunManager" selected="Application.FunctionCompositionUse">
     <configuration name="FunctionCompositionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.FunctionCompositionUse" />
       <module name="advanced-java-programming" />
@@ -64,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemorizationUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.MemorizationUse" />
+    <configuration name="MemoizationUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.MemoizationUse" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
@@ -118,7 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MemorizationUse" />
+        <item itemvalue="Application.MemoizationUse" />
         <item itemvalue="Application.TailRecursion" />
         <item itemvalue="Application.RecursionStackOverflowErrorUse" />
         <item itemvalue="Application.FunctionCompositionUse" />
@@ -135,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640225584009</updated>
       <workItem from="1640225585193" duration="1729000" />
-      <workItem from="1640727090179" duration="635000" />
+      <workItem from="1640727090179" duration="2552000" />
     </task>
     <servers />
   </component>
@@ -152,7 +155,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
