@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="430e45b6-a0d5-4a0a-80e6-41b64c48bbb3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/functional/programming/UnaryOperatorUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/functional/programming/UnaryOperatorUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/functional/programming/NextClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/functional/programming/HighOrderFunctionUse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +52,22 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FunctionCompositionUse">
+  <component name="RunManager" selected="Application.HighOrderFunctionUse">
     <configuration name="FunctionCompositionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.FunctionCompositionUse" />
+      <module name="advanced-java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.functional.programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighOrderFunctionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.HighOrderFunctionUse" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryOperatorUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.UnaryOperatorUse" />
-      <module name="advanced-java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.functional.programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighOrderFunctionUse" />
+        <item itemvalue="Application.FunctionCompositionUse" />
         <item itemvalue="Application.MemoizationUse" />
         <item itemvalue="Application.TailRecursion" />
         <item itemvalue="Application.RecursionStackOverflowErrorUse" />
-        <item itemvalue="Application.FunctionCompositionUse" />
-        <item itemvalue="Application.UnaryOperatorUse" />
       </list>
     </recent_temporary>
   </component>
