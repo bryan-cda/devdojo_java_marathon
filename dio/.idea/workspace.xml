@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="430e45b6-a0d5-4a0a-80e6-41b64c48bbb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/FunctionUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/functional/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/PredicateUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/SupplierUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/functional/programming/HighOrderFunctionUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/functional/programming/HighOrderFunctionUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/functional/programming/HighOrderFunctionUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/functional/programming/HighOrderFunctionUse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FunctionUse">
+  <component name="RunManager" selected="Application.SupplierUse">
     <configuration name="FunctionCompositionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.FunctionCompositionUse" />
       <module name="advanced-java-programming" />
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemoizationUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.MemoizationUse" />
+    <configuration name="PredicateUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.PredicateUse" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TailRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.TailRecursion" />
+    <configuration name="SupplierUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.SupplierUse" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SupplierUse" />
+        <item itemvalue="Application.PredicateUse" />
         <item itemvalue="Application.FunctionUse" />
         <item itemvalue="Application.HighOrderFunctionUse" />
         <item itemvalue="Application.FunctionCompositionUse" />
-        <item itemvalue="Application.MemoizationUse" />
-        <item itemvalue="Application.TailRecursion" />
       </list>
     </recent_temporary>
   </component>
