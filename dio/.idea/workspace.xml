@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="430e45b6-a0d5-4a0a-80e6-41b64c48bbb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/functional/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/PredicateUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/SupplierUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/ConsumerUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,9 +52,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SupplierUse">
-    <configuration name="FunctionCompositionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.FunctionCompositionUse" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.functional.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConsumerUse">
+    <configuration name="ConsumerUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.ConsumerUse" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumerUse" />
         <item itemvalue="Application.SupplierUse" />
         <item itemvalue="Application.PredicateUse" />
         <item itemvalue="Application.FunctionUse" />
         <item itemvalue="Application.HighOrderFunctionUse" />
-        <item itemvalue="Application.FunctionCompositionUse" />
       </list>
     </recent_temporary>
   </component>
