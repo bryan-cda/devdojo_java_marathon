@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="430e45b6-a0d5-4a0a-80e6-41b64c48bbb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/functional/programming/ConsumerUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="430e45b6-a0d5-4a0a-80e6-41b64c48bbb3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +53,7 @@
       <recent name="br.com.functional.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConsumerUse">
+  <component name="RunManager" selected="Application.Iterating">
     <configuration name="ConsumerUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.ConsumerUse" />
       <module name="advanced-java-programming" />
@@ -84,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighOrderFunctionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.HighOrderFunctionUse" />
+    <configuration name="Iterating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.Iterating" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Iterating" />
         <item itemvalue="Application.ConsumerUse" />
         <item itemvalue="Application.SupplierUse" />
         <item itemvalue="Application.PredicateUse" />
         <item itemvalue="Application.FunctionUse" />
-        <item itemvalue="Application.HighOrderFunctionUse" />
       </list>
     </recent_temporary>
   </component>
