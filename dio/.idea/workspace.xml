@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="430e45b6-a0d5-4a0a-80e6-41b64c48bbb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/processing/Semaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/GeneratePDF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/GeneratePDF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Processing$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Processing$Status.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Processing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Processing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/ThreadUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/ThreadUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/processing/ThreadUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/processing/ThreadUse.java" afterDir="false" />
-    </list>
+    <list default="true" id="f01fdfaa-886a-42e4-90e4-cc650033d865" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +53,7 @@
       <recent name="br.com.functional.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Semaphore">
+  <component name="RunManager" selected="Application.ConsumerUse">
     <configuration name="ConsumerUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.ConsumerUse" />
       <module name="advanced-java-programming" />
@@ -75,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iterating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.Iterating" />
+    <configuration name="FunctionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.FunctionUse" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semaphore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.processing.Semaphore" />
+    <configuration name="HighOrderFunctionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.HighOrderFunctionUse" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.processing.*" />
+          <option name="PATTERN" value="br.com.functional.programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.PredicateUse" />
+      <module name="advanced-java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.functional.programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.processing.ThreadUse" />
-      <module name="advanced-java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.processing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Semaphore" />
-        <item itemvalue="Application.ThreadUse" />
-        <item itemvalue="Application.Iterating" />
         <item itemvalue="Application.ConsumerUse" />
         <item itemvalue="Application.SupplierUse" />
+        <item itemvalue="Application.PredicateUse" />
+        <item itemvalue="Application.FunctionUse" />
+        <item itemvalue="Application.HighOrderFunctionUse" />
       </list>
     </recent_temporary>
   </component>

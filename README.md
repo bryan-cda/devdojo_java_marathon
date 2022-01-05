@@ -5,7 +5,7 @@
 </div>
 
 
-## Aqui vai um breve resumo do que você vai encontrar na branch master
+## Aqui vai um breve resumo do que você vai encontrar na branch dio-advanced-java-programming
 
 👨🏽‍💻 dio: 
 
@@ -16,12 +16,8 @@ Aqui temos o uso de programação avanada em Java sendo abordado assuntos como a
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-cda&count_private=true&include_all_commits=true&theme=dark)
 
-##
+
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
-
 
