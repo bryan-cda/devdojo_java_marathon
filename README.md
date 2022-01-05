@@ -19,6 +19,9 @@ Aqui temos o uso de programação avanada em Java sendo abordado assuntos como a
 ##
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
