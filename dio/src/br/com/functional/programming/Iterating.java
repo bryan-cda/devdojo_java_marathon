@@ -21,7 +21,7 @@ public class Iterating {
         System.out.println(j);
 
         colors.stream()
-                .filter(color -> color.startsWith("B"))
+                .map(color -> color.concat("-verified."))
                 .forEach(System.out::println);
 
     }
