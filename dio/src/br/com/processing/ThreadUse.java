@@ -10,6 +10,10 @@ public class ThreadUse {
         Processing processing = new Processing(generatePDF);
         generatePDF.start();
         processing.run();
+
+
+        Processing.Green g = new Processing.Green();
+        g.run();
     }
 }
 
@@ -58,6 +62,32 @@ class Processing extends Thread {
         @Override
         public void run() {
             out.print(format(" [Running %s]", this.getName()));
+        }
+    }
+
+
+    static class Green extends Thread{
+        public static final String ANSI_RESET = "\u001B[0m";
+        public static final String ANSI_YELLOW = "\u001B[33m";
+
+
+        @Override
+        public void run() {
+            out.println(ANSI_YELLOW+"FODACE"+ ANSI_RESET);
+        }
+    }
+
+    class Yellow extends Thread{
+        @Override
+        public void run() {
+            out.println("yellow");
+        }
+    }
+
+    class Red extends Thread{
+        @Override
+        public void run() {
+            out.println("Red");
         }
     }
 }
