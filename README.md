@@ -17,5 +17,6 @@ Aqui temos o uso de programação avanada em Java sendo abordado assuntos como a
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-cda&count_private=true&include_all_commits=true&theme=dark)
 
 
-																		    
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
