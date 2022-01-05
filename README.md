@@ -25,4 +25,3 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-[![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryancda&theme=dark)](https://github.com/bryan-cda/github-readme-stats)
