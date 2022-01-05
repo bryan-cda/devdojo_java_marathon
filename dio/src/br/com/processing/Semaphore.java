@@ -13,7 +13,6 @@ public class Semaphore {
         Red red = new Red();
         red.start();
     }
-
 }
 
 
@@ -60,6 +59,5 @@ class Red extends Thread{
             e.printStackTrace();
         }
         out.println(ANSI_RED_BACKGROUND +"   [●]   "+ ANSI_RESET+ " STOP!");
-
     }
 }
