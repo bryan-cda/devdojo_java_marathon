@@ -18,6 +18,7 @@ Aqui temos o uso de programação avanada em Java sendo abordado assuntos como a
 
 ##
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryancda)](https://github.com/bryan-cda/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
