@@ -7,7 +7,7 @@
 
 ## Aqui vai um breve resumo do que você vai encontrar na branch master
 
-<div> 👨🏽‍💻 <b>dio-advanced-java-programming:<b/> aqui temos o uso de programação avanada em Java sendo abordado assuntos como a API do Java 8, programação funcional, programação sincrona e assincrona, paralelismo, concorrência, modularização do Java e as novidades da versão 10 e 11 do Java.
+<div> 👨🏽‍💻 <b> dio-advanced-java-programming: <b/> aqui temos o uso de programação avanada em Java sendo abordado assuntos como a API do Java 8, programação funcional, programação sincrona e assincrona, paralelismo, concorrência, modularização do Java e as novidades da versão 10 e 11 do Java.
 </div>
 
 ##
