@@ -20,7 +20,7 @@ Aqui temos o uso de programação avanada em Java sendo abordado assuntos como a
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
