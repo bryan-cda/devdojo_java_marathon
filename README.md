@@ -20,7 +20,7 @@ Aqui temos o uso de programação avanada em Java sendo abordado assuntos como a
 
 <!--START_SECTION:waka-->
 ```text
-Java   3 mins          █████████████████████████   100.00 % 
+Java   15 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
