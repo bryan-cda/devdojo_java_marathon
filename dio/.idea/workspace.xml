@@ -4,12 +4,6 @@
     <list default="true" id="f01fdfaa-886a-42e4-90e4-cc650033d865" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Green.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Green.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Processing$Green.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Processing$Green.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Red.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Red.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Yellow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Yellow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/processing/ConcurrenceUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/processing/ConcurrenceUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/processing/ThreadUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/processing/ThreadUse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Clojure/nubank" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -150,6 +144,7 @@
       <workItem from="1640225585193" duration="1729000" />
       <workItem from="1640727090179" duration="2552000" />
       <workItem from="1642299412946" duration="190000" />
+      <workItem from="1642306075730" duration="10000" />
     </task>
     <servers />
   </component>
