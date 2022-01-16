@@ -19,5 +19,9 @@ Aqui temos o uso de programação avanada em Java sendo abordado assuntos como a
 
 
 <!--START_SECTION:waka-->
+```text
+Java   1 hr 5 mins     █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
+
 
