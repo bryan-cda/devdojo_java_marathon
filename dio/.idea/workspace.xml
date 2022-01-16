@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f01fdfaa-886a-42e4-90e4-cc650033d865" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/processing/ConcurrenceUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Green.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Green.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Processing$Green.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Processing$Green.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Red.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Red.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Yellow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-programming/br/com/processing/Yellow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/processing/ConcurrenceUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/processing/ConcurrenceUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/processing/ThreadUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/processing/ThreadUse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,35 +63,22 @@
       <recent name="br.com.functional.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConsumerUse">
+  <component name="RunManager" selected="Application.ConcurrenceUse">
+    <configuration name="ConcurrenceUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.processing.ConcurrenceUse" />
+      <module name="advanced-java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsumerUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.ConsumerUse" />
-      <module name="advanced-java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.functional.programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.FunctionUse" />
-      <module name="advanced-java-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.functional.programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HighOrderFunctionUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.functional.programming.HighOrderFunctionUse" />
       <module name="advanced-java-programming" />
       <extension name="coverage">
         <pattern>
@@ -124,26 +116,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.processing.ThreadUse" />
+      <module name="advanced-java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConcurrenceUse" />
+        <item itemvalue="Application.ThreadUse" />
         <item itemvalue="Application.ConsumerUse" />
         <item itemvalue="Application.SupplierUse" />
         <item itemvalue="Application.PredicateUse" />
-        <item itemvalue="Application.FunctionUse" />
-        <item itemvalue="Application.HighOrderFunctionUse" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="430e45b6-a0d5-4a0a-80e6-41b64c48bbb3" name="Changes" comment="" />
+      <changelist id="f01fdfaa-886a-42e4-90e4-cc650033d865" name="Changes" comment="" />
       <created>1640225584009</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640225584009</updated>
       <workItem from="1640225585193" duration="1729000" />
       <workItem from="1640727090179" duration="2552000" />
+      <workItem from="1642299412946" duration="190000" />
     </task>
     <servers />
   </component>

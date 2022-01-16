@@ -73,7 +73,7 @@ class Processing extends Thread {
 
         @Override
         public void run() {
-            out.println(ANSI_YELLOW+"FODACE"+ ANSI_RESET);
+            out.println(ANSI_YELLOW+" DONE!"+ ANSI_RESET);
         }
     }
 
