@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsf_marathon">
+    <output-path>$PROJECT_DIR$/target/jsf_marathon.war</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>jsf_marathon</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="jsf_marathon-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jsf_marathon:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsf_marathon">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsf_marathon.war</output-path>
+    <root id="root" />
+  </artifact>
+</component>
