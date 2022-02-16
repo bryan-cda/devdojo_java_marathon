@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="432caf3c-c0c2-433e-b75b-e29dba7b1d8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/advanced-java-programming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/ConsumerUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/FunctionCompositionUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/FunctionUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/HighOrderFunctionUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/Iterating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/MemoizationUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/PredicateUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/RecursionStackOverflowErrorUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/SupplierUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/TailRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/functional/programming/UnaryOperatorUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/ConcurrenceUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/GeneratePDF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Green.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Processing$Green.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Processing$Red.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Processing$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Processing$Yellow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Processing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Red.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Semaphore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/ThreadUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/out/production/advanced-java-programming/br/com/processing/Yellow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/ConsumerUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/FunctionCompositionUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/FunctionUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/HighOrderFunctionUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/Iterating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/MemoizationUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/PredicateUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/RecursionStackOverflowErrorUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/SupplierUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/TailRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/functional/programming/UnaryOperatorUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/processing/ConcurrenceUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/processing/Semaphore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dio/src/br/com/processing/ThreadUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/artifacts/jsf_marathon_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/artifacts/jsf_marathon_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__com_sun_faces_jsf_api_2_2_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__javax_enterprise_cdi_api_2_0_SP1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__javax_faces_javax_faces_api_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__javax_interceptor_javax_interceptor_api_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ee/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workflows/github-actions-demo.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="24SmrrFsMBaONYfuV7zqwRAKJtH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="432caf3c-c0c2-433e-b75b-e29dba7b1d8d" name="Changes" comment="" />
+      <created>1643632563673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643632563673</updated>
+      <workItem from="1643632565016" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
