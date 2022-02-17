@@ -1,5 +1,7 @@
 package br.com.java.marathon.primitive;
 
+import java.util.Random;
+
 public class PrimitiveTypes {
     public static void main(String[] args) {
         /**
@@ -17,11 +19,7 @@ public class PrimitiveTypes {
         char gender = 'M';
         char asciiTableValue = 65;
 
-
         System.out.println(asciiTableValue);
-
-
-
     }
 
 }
