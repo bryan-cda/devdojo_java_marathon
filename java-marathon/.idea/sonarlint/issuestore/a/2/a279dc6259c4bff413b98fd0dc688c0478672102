@@ -1,0 +1,41 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "expiration".(É“ÚŸüÿÿÿÿ
+Y
+java:S1854"CRemove this useless assignment to local variable "asciiTableValue".(ÿ³’
+P
+java:S1854":Remove this useless assignment to local variable "gender".(¼Ô¨í
+W
+java:S1854
+"<Remove this useless assignment to local variable "childAge".(Ö«É„şÿÿÿÿ
+P
+java:S1854	":Remove this useless assignment to local variable "second".(ï¾÷
+S
+java:S1854"8Remove this useless assignment to local variable "size".(Ë•´Áùÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "price".(†íúËşÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "duration".(‰îÃğüÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "age".(Ëß¾£
+>
+java:S1481"(Remove this unused "age" local variable.(Ëß¾£
+H
+java:S1481"-Remove this unused "duration" local variable.(‰îÃğüÿÿÿÿ
+E
+java:S1481"*Remove this unused "price" local variable.(†íúËşÿÿÿÿ
+D
+java:S1481")Remove this unused "size" local variable.(Ë•´Áùÿÿÿÿ
+A
+java:S1481	"+Remove this unused "second" local variable.(ï¾÷
+H
+java:S1481
+"-Remove this unused "childAge" local variable.(Ö«É„şÿÿÿÿ
+A
+java:S1481"+Remove this unused "active" local variable.(şÙæ¾
+A
+java:S1481"+Remove this unused "gender" local variable.(¼Ô¨í
+J
+java:S1481"4Remove this unused "asciiTableValue" local variable.(ÿ³’
+J
+java:S1481"/Remove this unused "expiration" local variable.(É“ÚŸüÿÿÿÿ

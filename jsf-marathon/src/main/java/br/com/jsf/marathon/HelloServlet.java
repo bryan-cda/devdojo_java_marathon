@@ -1,4 +1,4 @@
-package br.com.jsf.marathon.jsfmarathon;
+package br.com.jsf.marathon;
 
 import java.io.*;
 import javax.servlet.http.*;
