@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="appw">
+    <output-path>$PROJECT_DIR$/target/app</output-path>
+    <root id="archive" name="appw.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java-server-faces-marathon" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="java-server-faces-marathon/web/Web" />
+    </root>
+  </artifact>
+</component>
