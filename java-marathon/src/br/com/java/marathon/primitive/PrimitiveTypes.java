@@ -8,7 +8,6 @@ public class PrimitiveTypes {
          * @see numeric: int, long, double, float, byte, short. Alphanumeric: char. Boolean: boolean
          *
          */
-
         int age = 31;
         long duration = 1000000;
         double price = 19.50;
@@ -18,8 +17,5 @@ public class PrimitiveTypes {
         boolean active = false;
         char gender = 'M';
         char asciiTableValue = 65;
-
-        System.out.println(asciiTableValue);
-    }
-
+        int expiration = (int) 1000000000000000000L;
 }
