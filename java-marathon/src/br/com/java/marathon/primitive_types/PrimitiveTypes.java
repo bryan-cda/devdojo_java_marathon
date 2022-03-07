@@ -1,6 +1,4 @@
-package br.com.java.marathon.primitive;
-
-import java.util.Random;
+package br.com.java.marathon.primitive_types;
 
 public class PrimitiveTypes {
     public static void main(String[] args) {
@@ -18,4 +16,5 @@ public class PrimitiveTypes {
         char gender = 'M';
         char asciiTableValue = 65;
         int expiration = (int) 1000000000000000000L;
+    }
 }
