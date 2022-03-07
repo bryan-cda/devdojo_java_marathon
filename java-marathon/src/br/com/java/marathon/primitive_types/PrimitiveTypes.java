@@ -3,8 +3,9 @@ package br.com.java.marathon.primitive_types;
 public class PrimitiveTypes {
     public static void main(String[] args) {
         /**
-         * @see numeric: int, long, double, float, byte, short. Alphanumeric: char. Boolean: boolean
-         *
+         * @see numeric: int, long, double, float, byte, short.
+         * Alphanumeric: char.
+         * Boolean: boolean
          */
         int age = 31;
         long duration = 1000000;
