@@ -8,10 +8,20 @@ public class ConditionalStructures {
 
         if(isAllowedToBuyAlcohol){
             System.out.println("Allowed to buy alcohol!");
-        }
-
-        if(!isAllowedToBuyAlcohol){
+        } else{
             System.out.println("Not allowed to buy alcohol!");
         }
+
+        String category;
+
+        if(age < 15){
+            category = "Children's category";
+        } else if(age >= 15 && age < 18){
+            category = "Juvenile category";
+        } else{
+            category = "Adult category";
+        }
+
+        System.out.println(category);
     }
 }
