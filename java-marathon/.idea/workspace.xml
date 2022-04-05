@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b9c88fa-8a34-489b-88d3-d15a65430a4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/java-marathon/br/com/java/marathon/repetition_structures/BreakUse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-marathon/br/com/java/marathon/repetition_structures/ContinueUse.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/br/com/java/marathon/repetition_structures/BreakUse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/br/com/java/marathon/repetition_structures/ContinueUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-marathon/br/com/java/marathon/repetition_structures/RepetitionStructures.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-marathon/br/com/java/marathon/repetition_structures/RepetitionStructures.class" afterDir="false" />
@@ -168,7 +170,7 @@
       <workItem from="1646920961839" duration="8044000" />
       <workItem from="1647395262410" duration="4215000" />
       <workItem from="1647610643395" duration="621000" />
-      <workItem from="1649127293839" duration="2063000" />
+      <workItem from="1649127293839" duration="2720000" />
     </task>
     <servers />
   </component>
