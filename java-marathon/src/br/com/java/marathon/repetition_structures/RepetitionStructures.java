@@ -24,18 +24,5 @@ public class RepetitionStructures {
                 System.out.println(String.format("Pair: %s", i));
             }
         }
-
-        double carPrice = 30000;
-        double parcelPrice = 0;
-
-        for(int parcel = 1; parcel < carPrice; parcel++){
-            parcelPrice = carPrice / parcel;
-
-            if(parcelPrice < 1000){
-                System.out.println(parcel);
-                break;
-            }
-            System.out.println(String.format("Parcel value option R$ %s in %s times...", parcelPrice, parcel));
-        }
     }
 }
