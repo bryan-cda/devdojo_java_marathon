@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class ConditionalStructures {
     static String category;
 
+    public static final String VIP_CLIENT = "VIP CLIENT";
+    public static final String NORMAL_CLIENT = "NORMAL CLIENT";
+
     public static void main(String[] args) {
         int age = 18;
 
@@ -30,7 +33,9 @@ public class ConditionalStructures {
 
         double salary = 4000;
 
-        String bankClient = salary > 5000 ? "VIP CLIENT" : "NORMAL CLIENT";
+        boolean clientType = salary > 5000;
+
+        String bankClient = clientType ? VIP_CLIENT : NORMAL_CLIENT;
 
         System.out.println(bankClient);
 
