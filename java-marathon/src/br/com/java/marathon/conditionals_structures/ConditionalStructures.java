@@ -6,11 +6,14 @@ public class ConditionalStructures {
     static String category;
 
     public static void main(String[] args) {
-        int age = 17;
+        int age = 18;
 
-        boolean isAllowedToBuyAlcohol = age > 18;
+        if (age == 17)
+            System.out.println(age);
 
-        if(isAllowedToBuyAlcohol){
+        boolean allowedToBuyAlcohol = age >= 18;
+
+        if(allowedToBuyAlcohol){
             System.out.println("Allowed to buy alcohol!");
         } else{
             System.out.println("Not allowed to buy alcohol!");
