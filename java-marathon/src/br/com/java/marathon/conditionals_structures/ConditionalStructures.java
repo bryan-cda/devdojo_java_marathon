@@ -21,7 +21,7 @@ public class ConditionalStructures {
 
         if(age < 15){
             category = "Children's category";
-        } else if(age >= 15 && age < 18){
+        } else if(age >= 15 && age <= 18){
             category = "Juvenile category";
         } else{
             category = "Adult category";
