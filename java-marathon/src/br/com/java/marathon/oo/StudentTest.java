@@ -2,7 +2,7 @@ package br.com.java.marathon.oo;
 
 import br.com.java.marathon.oo.domain.Student;
 
-public class OOTest {
+public class StudentTest {
     public static void main(String[] args) {
         Student student1 = new Student();
         student1.name = "Foo";
