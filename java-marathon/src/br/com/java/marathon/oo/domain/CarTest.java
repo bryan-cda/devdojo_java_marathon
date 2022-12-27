@@ -13,6 +13,8 @@ public class CarTest {
         car2.model = "Sport X";
         car2.year = 1989;
 
+        car2 = car1;
+
         System.out.println(car1.name);
         System.out.println(car1.model);
         System.out.println(car1.year);
