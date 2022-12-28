@@ -1,6 +1,7 @@
 package br.com.java.marathon.oo;
 
 import br.com.java.marathon.oo.domain.Student;
+import br.com.java.marathon.oo.domain.StudentPrinter;
 
 public class StudentTest {
     public static void main(String[] args) {
@@ -21,5 +22,10 @@ public class StudentTest {
         System.out.println(student2.name);
         System.out.println(student2.gender);
         System.out.println(student2.age);
+
+        StudentPrinter printer = new StudentPrinter();
+
+        printer.printStudentData(student1);
+        printer.printStudentData(student2);
     }
 }
