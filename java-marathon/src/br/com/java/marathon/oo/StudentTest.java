@@ -25,7 +25,12 @@ public class StudentTest {
 
         StudentPrinter printer = new StudentPrinter();
 
+        // -- method using reference object
         printer.printStudentData(student1);
         printer.printStudentData(student2);
+
+        // -- this reference use of object student
+        student1.printStudentData();
+        student2.printStudentData();
     }
 }
