@@ -9,6 +9,6 @@ public class CalculatorTest {
         System.out.println(calc.sum(1,1));
         System.out.println(calc.subtraction(1,1));
         System.out.println(calc.multiply(2,2));
-        System.out.println(calc.division(10,2));
+        System.out.println(calc.division(10,0));
     }
 }
