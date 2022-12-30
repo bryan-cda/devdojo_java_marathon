@@ -1,4 +1,4 @@
-package br.com.java.marathon.oo;
+package br.com.java.marathon.oo.test;
 
 import br.com.java.marathon.oo.domain.Calculator;
 

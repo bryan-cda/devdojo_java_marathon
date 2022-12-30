@@ -42,7 +42,6 @@ public class Arrays {
         System.out.println(ages[2]);
 
         //create bi-dimensional arrays
-
         int[][] year = new int[12][30];
 
         year[0][0]=1;
@@ -137,8 +136,6 @@ public class Arrays {
                 System.out.println("->" + some);
             }
         }
-
-
     }
 
     class testArrays{

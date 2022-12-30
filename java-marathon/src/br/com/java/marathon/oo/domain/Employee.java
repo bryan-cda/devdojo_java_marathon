@@ -6,9 +6,33 @@ import static java.lang.String.format;
 import static java.util.Objects.nonNull;
 
 public class Employee {
-    public String name;
-    public int age;
-    public double[] salaries;
+    private String name;
+    private int age;
+    private double[] salaries;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public double[] getSalaries() {
+        return salaries;
+    }
+
+    public void setSalaries(double[] salaries) {
+        this.salaries = salaries;
+    }
 
     public void printEmployeeSalaryData(){
         System.out.println(this.name);
