@@ -1,2 +1,0 @@
-br/com/gradle/tasks/App.java
- br.com.gradle.tasks.App
