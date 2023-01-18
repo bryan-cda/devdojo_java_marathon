@@ -1,0 +1,2 @@
+gradle/init/build/project/example/AppTest.java
+ gradle.init.build.project.example.AppTest
