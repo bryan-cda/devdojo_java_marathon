@@ -5,12 +5,18 @@ import java.util.Scanner;
 public class ConditionalStructures {
     static String category;
 
+    public static final String VIP_CLIENT = "VIP CLIENT";
+    public static final String NORMAL_CLIENT = "NORMAL CLIENT";
+
     public static void main(String[] args) {
-        int age = 17;
+        int age = 18;
 
-        boolean isAllowedToBuyAlcohol = age > 18;
+        if (age == 17)
+            System.out.println(age);
 
-        if(isAllowedToBuyAlcohol){
+        boolean allowedToBuyAlcohol = age >= 18;
+
+        if(allowedToBuyAlcohol){
             System.out.println("Allowed to buy alcohol!");
         } else{
             System.out.println("Not allowed to buy alcohol!");
@@ -18,7 +24,7 @@ public class ConditionalStructures {
 
         if(age < 15){
             category = "Children's category";
-        } else if(age >= 15 && age < 18){
+        } else if(age >= 15 && age <= 18){
             category = "Juvenile category";
         } else{
             category = "Adult category";
@@ -27,7 +33,9 @@ public class ConditionalStructures {
 
         double salary = 4000;
 
-        String bankClient = salary > 5000 ? "VIP CLIENT" : "NORMAL CLIENT";
+        boolean clientType = salary > 5000;
+
+        String bankClient = clientType ? VIP_CLIENT : NORMAL_CLIENT;
 
         System.out.println(bankClient);
 
