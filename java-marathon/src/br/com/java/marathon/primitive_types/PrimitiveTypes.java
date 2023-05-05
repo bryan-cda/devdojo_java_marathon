@@ -3,15 +3,13 @@ package br.com.java.marathon.primitive_types;
 public class PrimitiveTypes {
     public static void main(String[] args) {
 
-        int age = 31;
-        long duration = 1000000;
-        double price = 19.50;
-        float size = 97.8F;
-        byte second = 127; //-128 to 127
-        short childAge = 2;
-        boolean active = false;
-        char gender = 'M';
-        char asciiTableValue = 65;
-        int expiration = (int) 1000000000000000000L;
+        byte byteVariable =-128;// [1 byte]
+        short shortVariable = -3268;// [2 bytes]
+        int intVariable = 2147483647;// [4 bytes]
+        long longVariable = 1000000; // [8 bytes]
+        double doubleVariable = 19.50D;// [8 bytes]
+        float floatVariable = 97.8F; // [4 bytes]
+        boolean booleanVariable = false;// [true or false]
+        char charVariable = 'M';//[2 bytes]
     }
 }
