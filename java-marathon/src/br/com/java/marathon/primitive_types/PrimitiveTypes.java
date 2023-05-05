@@ -10,6 +10,6 @@ public class PrimitiveTypes {
         double doubleVariable = 19.50D;// [8 bytes]
         float floatVariable = 97.8F; // [4 bytes]
         boolean booleanVariable = false;// [true or false]
-        char charVariable = 'M';//[2 bytes]
+        char charVariable = 'M';// [2 bytes]
     }
 }
