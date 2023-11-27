@@ -4,7 +4,7 @@ public class Arrays {
     public static void main(String[] args) {
         System.out.println(args);
 
-        //simple int array
+        //simple int array - arrays is reference types not primitive
         int[] ages = new int[3];
         ages[0] = 3;
         ages[1] = 30;
@@ -12,7 +12,7 @@ public class Arrays {
 
         //simple String array
         String[] names = new String[4];
-        names[0] = "L Mar";
+        names[0] = "None";
         names[1] = "John";
         names[2] = "Due";
         names[3] = "Foo";
@@ -138,10 +138,5 @@ public class Arrays {
         }
     }
 
-    class testArrays{
-        public static void main(String[] args) {
-            Arrays arrays = new Arrays();
-            arrays.main(new String[]{"test"});
-        }
-    }
+    class testArrays{}
 }

@@ -1,6 +1,5 @@
 package br.com.java.marathon.oo.domain;
 
-import java.util.Objects;
 
 import static java.lang.String.format;
 import static java.util.Objects.nonNull;
