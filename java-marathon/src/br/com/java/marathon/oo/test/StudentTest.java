@@ -4,7 +4,7 @@ import br.com.java.marathon.oo.domain.Student;
 import br.com.java.marathon.oo.domain.StudentPrinter;
 
 public class StudentTest {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws NoSuchMethodException {
         Student student1 = new Student();
         student1.setName("Foo");
         student1.setGender('M');

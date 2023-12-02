@@ -29,10 +29,19 @@ public class Student {
         return this.age;
     }
 
-    // -- it's not good to use this method for cohesion question
+    /**
+     *
+     * @see just to example of this use
+     * @author Bryan Duarte
+     * @since 01.12.2023
+     * @version 0.0.1
+     * @apiNote it's not good to use this method for cohesion question
+
     public void printStudentData(){
         System.out.println(this.name);
         System.out.println(this.gender);
         System.out.println(this.age);
-    }
+    } */
+
+
 }

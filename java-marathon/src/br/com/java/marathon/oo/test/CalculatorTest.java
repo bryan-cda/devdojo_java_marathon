@@ -20,14 +20,12 @@ public class CalculatorTest {
 
 
         List<String> names = new ArrayList<>();
-        names.add("Bryan");
-        names.add("Ellora");
-        names.add("Irys");
-        names.add("Keli");
+        names.add("Foo");
+        names.add("Bar");
+        names.add("John");
+        names.add("Due");
 
-        names.forEach(n -> {
-            System.out.println(n.contains("Bryan") || n.contains("Ellora"));
-        });
+        names.forEach(n -> System.out.println(n.contains("Foo") || n.contains("Bar")));
 
         BigDecimal price = new BigDecimal("10.12556");
         price = price.setScale(2, BigDecimal.ROUND_DOWN);
