@@ -30,7 +30,7 @@ public class StudentTest {
         printer.printStudentData(student2);
 
         // -- this reference use of object student
-        student1.printStudentData();
-        student2.printStudentData();
+        //student1.printStudentData();
+        //student2.printStudentData();
     }
 }

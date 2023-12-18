@@ -30,7 +30,6 @@ public class Student {
     }
 
     /**
-     *
      * @see just to example of this use
      * @author Bryan Duarte
      * @since 01.12.2023
@@ -41,7 +40,7 @@ public class Student {
         System.out.println(this.name);
         System.out.println(this.gender);
         System.out.println(this.age);
-    } */
+    } **/
 
 
 }
