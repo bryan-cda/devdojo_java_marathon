@@ -1,6 +1,6 @@
 package br.com.java.marathon.arrays;
 
-import br.com.java.marathon.calculator.Calculator;
+import br.com.java.marathon.oo.domain.methods.Calculator;
 
 import static java.lang.String.valueOf;
 
@@ -124,12 +124,13 @@ public class Arrays {
             }
         }
 
-        System.out.printf(Calculator.class.getName() + ":::sumArray = ");
         Calculator calc = new Calculator();
         int[] arr = {year[0][0], year[0][1], year[0][2]};
-        calc.sumArray(arr);
+        System.out.printf(Calculator.class.getName() + ":::sumArray = " + calc.sumArray(arr));
+        System.out.println();
 
-        System.out.printf(Calculator.class.getName() + ":::sumArrayVarArgs = ");
-        calc.sumArrayVarArgs(1, 2, 3, 4, 5, 6, 7, 8, 9);
+        System.out.printf(Calculator.class.getName() + ":::sumArrayVarArgs = " + calc.sumArrayVarArgs(1, 2, 3, 4, 5, 6, 7, 8, 9));
+        System.out.println();
+
     }
 }

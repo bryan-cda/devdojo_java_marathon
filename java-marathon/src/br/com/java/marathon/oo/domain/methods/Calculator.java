@@ -1,4 +1,4 @@
-package br.com.java.marathon.oo.domain;
+package br.com.java.marathon.oo.domain.methods;
 
 public class Calculator {
     public int sum(int n1, int n2){

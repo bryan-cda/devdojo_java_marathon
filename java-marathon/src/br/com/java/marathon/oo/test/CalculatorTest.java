@@ -1,6 +1,6 @@
 package br.com.java.marathon.oo.test;
 
-import br.com.java.marathon.oo.domain.Calculator;
+import br.com.java.marathon.oo.domain.methods.Calculator;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
