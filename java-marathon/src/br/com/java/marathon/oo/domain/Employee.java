@@ -35,13 +35,13 @@ public class Employee {
     }
 
     public void employeeReport(){
-        System.out.println("Name: " + this.name);
-        System.out.println("Age: " + this.age);
-        System.out.println("Register: " + currentTimeMillis());
+        System.out.println(format("NAME: %s", this.name));
+        System.out.println(format ("AGE: %s ", this.age));
+        System.out.println(format("REGISTER: %s ", currentTimeMillis()));
 
         if(nonNull(salaries)){
             for(double salary : salaries){
-                System.out.println(format("Salary: %s", salary));
+                System.out.println(format("SALARY: %s", salary));
             }
             employeeAverageSalaryCalculator();
         }
@@ -49,12 +49,16 @@ public class Employee {
 
     public void employeeAverageSalaryCalculator(){
         double average = 0;
+
         for(double salary : salaries){
             average += salary;
         }
-        average /= salaries.length;
 
-        System.out.println(format("average salary is $ %s", average));
+        if(salaries.length > 0 && nonNull(salaries)){
+            average /= salaries.length;
+        }
+
+        System.out.println(format("AVERAGE SALARY IS R$ %s", average));
     }
 
 }
