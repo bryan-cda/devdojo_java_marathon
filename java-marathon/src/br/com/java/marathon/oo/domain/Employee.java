@@ -37,7 +37,7 @@ public class Employee {
     public void employeeReport(){
         System.out.println(format("NAME: %s", this.name));
         System.out.println(format ("AGE: %s ", this.age));
-        System.out.println(format("REGISTER: %s ", currentTimeMillis()));
+        System.out.println(format("REGISTER: %s ", 0001L));
 
         if(nonNull(salaries)){
             for(double salary : salaries){
