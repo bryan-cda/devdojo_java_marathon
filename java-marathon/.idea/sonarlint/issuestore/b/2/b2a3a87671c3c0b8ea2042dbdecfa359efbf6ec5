@@ -1,0 +1,10 @@
+
+š
+java:S1130"xRemove the declaration of thrown exception 'java.lang.NoSuchMethodException', as it cannot be thrown from method's body.(ÚÄ¼¢úÿÿÿÿ8«šğäÇ1
+@	java:S106"+Replace this use of System.out by a logger.(ü×Ø¦
+@	java:S106"+Replace this use of System.out by a logger.(Ì¨ÈÒ
+E	java:S106"+Replace this use of System.out by a logger.(ĞğÒùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(±‡„ø
+E	java:S106"+Replace this use of System.out by a logger.(òªÅµşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(×ÌúÕ
+]	java:S125!"<This block of commented-out lines of code should be removed.(ü¯Ëüÿÿÿÿ8«šğäÇ1
