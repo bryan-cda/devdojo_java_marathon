@@ -1,11 +1,13 @@
 package br.com.java.marathon.oo.domain.methods.overload;
 
+import static java.util.Objects.nonNull;
+
 public class Movie {
 
-    public Movie(){
+    public static final String EMPTY_STRING = "";
+    public static final int ZEROED_VALUE = 0;
 
-    }
-
+    public Movie(){}
     public Movie(String name, int year, String author, String gender) {
         this.name = name;
         this.year = year;
@@ -13,23 +15,18 @@ public class Movie {
         this.gender = gender;
     }
 
-    private String name;
-    private int year;
-    private String author;
-    private String gender;
-
-    public void initMovie(String name, int year, String author){
-        this.name = name;
-        this.year = year;
-        this.author = author;
-    }
-
-    public void initMovie(String name, int year, String author, String gender){
+    public Movie(String name, int year, String author, String gender, int rate) {
         this.name = name;
         this.year = year;
         this.author = author;
         this.gender = gender;
+        this.rate = rate;
     }
+    private String name;
+    private int year;
+    private String author;
+    private String gender;
+    private int rate;
 
     public String getName() {
         return name;
@@ -63,11 +60,19 @@ public class Movie {
         this.gender = gender;
     }
 
-    public void printMovieData(){
-        System.out.println(this.name);
-        System.out.println(this.year);
-        System.out.println(this.author);
-        System.out.println(this.gender);
+    public int getRate() {
+        return rate;
     }
 
+    public void setRate(int rate) {
+        this.rate = rate;
+    }
+
+    public void printMovieData(){
+        System.out.println(nonNull(this.name) ? this.name : EMPTY_STRING);
+        System.out.println(nonNull(this.year) ? this.year : ZEROED_VALUE);
+        System.out.println(nonNull(this.author) ? this.author : EMPTY_STRING);
+        System.out.println(nonNull(this.gender) ? this.gender : EMPTY_STRING);
+        System.out.println(nonNull(this.rate) ? this.rate : ZEROED_VALUE);
+    }
 }
