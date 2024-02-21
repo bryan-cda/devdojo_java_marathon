@@ -1,6 +1,18 @@
 package br.com.java.marathon.oo.domain.methods.overload;
 
 public class Movie {
+
+    public Movie(){
+
+    }
+
+    public Movie(String name, int year, String author, String gender) {
+        this.name = name;
+        this.year = year;
+        this.author = author;
+        this.gender = gender;
+    }
+
     private String name;
     private int year;
     private String author;
