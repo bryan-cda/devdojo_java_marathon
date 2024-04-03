@@ -15,8 +15,6 @@ b
 0src/br/com/java/marathon/oo/domain/Employee.java,8\4\8493efcaafa59ef1c4bba164f0494d8a45539b20
 j
 :src/br/com/java/marathon/oo/domain/methods/Calculator.java,2\8\28eb23d5af5acc056c43719e30f1d4e4e61d2ab5
-^
-.src/br/com/java/marathon/oo/test/IrysTest.java,8\9\894f2f0d07ccec6904dc4e81c3cff8b03b5c8d36
 n
 >src/br/com/java/marathon/oo/domain/methods/overload/Movie.java,f\7\f717304cd7b6beeb1ad3c266901060ef6fbc4c5a
 _
